@@ -37,7 +37,7 @@ def Cupom_Fiscal():
     Tempo = time.strftime('%Y_%m_%d %H.%M.%S', time.localtime())
     
     #Cria um .txt em um determinado diretório
-    Caminho = Path(f'C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Python\\Python\\Cupom Fiscal\\{Tempo}.txt') #caminho do arquivo
+    Caminho = Path(f'C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Python\\Python\\Cupom_Fiscal\\{Tempo}.txt') #caminho do arquivo
     Caminho.touch()
     
     #Abre o arquivo para escrita no final deste
