@@ -1,0 +1,6 @@
+Tipo de carne: Picanha
+Quantidade: 6.00 kg
+Total: R$ 41.40
+Tipo de pagamento: Sim
+Desconto: R$ 2.07
+Preço a pagar: R$ 39.33
